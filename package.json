@@ -21,7 +21,7 @@
     "gulp-sass": "^5.0.0",
     "gulp-uglify": "~3.0.0",
     "gulp-uglifycss": "^1.1.0",
-    "gulp-watch": "^4.0.1",
+    "gulp-watch": "^4.3.11",
     "gulp-webserver": "^0.1.0",
     "node-sass": "^6.0.1"
   }
